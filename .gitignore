@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual Environment
+venv/
+
+# YOLO Models
+*.pt
+
+# YOLO Output
+runs/
+
+# Logs
+logs/
+*.log
+*.csv
+
+# IDE
+.vscode/
+.idea/
+
+# Linux
+*.swp
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
