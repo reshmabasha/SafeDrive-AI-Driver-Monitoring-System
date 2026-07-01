@@ -450,9 +450,9 @@ This project is developed for educational and research purposes.
 
 Artificial Intelligence & Data Science Student
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/reshmabasha
 
-LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+LinkedIn: https://linkedin.com/in/reshma-reshma-b-1362ba327 
 
 ---
 
