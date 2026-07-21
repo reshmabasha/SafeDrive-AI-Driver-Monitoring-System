@@ -201,6 +201,9 @@ SafeDrive-AI
 # 🛠 Technologies Used
 
 - Python 3.11
+- Advanced Machine Learning
+- Deep Learning
+- Computer Vision to process visual data.
 - OpenCV
 - MediaPipe
 - YOLOv8
